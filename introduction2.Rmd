@@ -1,0 +1,38 @@
+---
+title: "Visually Guided Cervical Movement and Real-Time Muscle Assessment: Integrating Image Processing and Ultrasound"
+output: pdf_document
+date: "2024-10-08"
+csl: ieee.csl
+bibliography: [ultra.bib, deep_flexors.bib]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Introduction
+
+The assessment of cervical muscle function is crucial for understanding the mechanisms underlying chronic neck pain and for informing effective interventions. Previous research has employed a variety of methods to evaluate cervical muscle performance, including the use of a handheld dynamometer to assess muscle strength and function [@petersen_lower_2011]. This study aims to explore the co-activation of cervical muscles during tasks involving following a moving target, using ultrasound as an imaging modality to provide insights into the functional behavior of these muscles.
+
+The cervical region includes several key muscle groups, such as the deep cervical flexors, deep posterior muscles, trapezius, splenius group, longus colli group, craniocervical deep flexors, and sternocleidomastoid [@kuniyasu_changes_2014; @jesus_ultrasonographic_2008; @kumar_power_2003]. The current study focuses on understanding the co-activation and recruitment of these muscles during movement tasks, comparing individuals with and without neck pain. Two primary methods have been used for assessing muscle activity: ultrasonography [@kuniyasu_changes_2014; @jesus_ultrasonographic_2008; @peolsson_ultrasound_2012] and surface electromyography (EMG) [@snodgrass_cervical_2019]. Ultrasonography allows for the non-invasive visualization of muscle thickness and activity, while surface EMG provides detailed information about muscle activation patterns.
+
+Exercise interventions are widely recognized as essential for managing patients with neck pain, particularly by targeting muscle strength, endurance, and motor control [@iqbal_effect_2013; @suvarnnato_effect_2019; @falla_unravelling_2004; @falla_training_2008]. Neck muscle compositional changes, such as altered muscle thickness and imbalances in recruitment, have been identified as potential biomarkers contributing to chronic neck pain and related disabilities [@snodgrass_cervical_2019]. The thickness of muscles such as the trapezius and splenius groups, as well as their ratios to other muscles, has been observed using ultrasound to assess changes related to pain and dysfunction [@kuniyasu_changes_2014; @jesus_ultrasonographic_2008; @goodarzi_effects_2018; @ishida_correlation_2016]. Imbalances in muscle recruitment may be a key factor in chronic neck pain, as noted in studies that have examined muscle recruitment ratios and co-activation [@goo_ratio_2015].
+
+Studies have shown that individuals with neck pain tend to have greater muscle volume, particularly in the superficial muscles, which may be linked to compensatory activation patterns [@snodgrass_cervical_2019]. Training programs lasting 6 to 12 weeks, incorporating various levels of load, have been effective in improving muscle activation and reducing pain in patients with neck pain [@jull_effect_2009; @borisut_effects_2013; @falla_training_2008]. These interventions often utilize biofeedback and movement-based exercises to enhance motor control and reduce muscle imbalances [@iqbal_effect_2013; @lindstroem_current_2012].
+
+Previous studies have highlighted the importance of pressure levels during cranio-cervical flexion exercises (CCFE) in influencing muscle recruitment patterns. Specific pressure ranges, such as 22 mmHg to 30 mmHg, have been found to enable minimal activation of the sternocleidomastoid, allowing for greater engagement of the deep cervical flexors [@goo_ratio_2015]. The comparison of muscle activation between deep and superficial cervical muscles during isometric cranio-cervical flexion (CCF) and conventional cervical flexion (CF) further emphasizes the importance of targeted muscle recruitment in managing neck pain [@oleary_muscle_2007].
+
+Moreover, co-activation of cervical agonist and antagonist muscles has been found to differ between individuals with and without chronic tension-type headaches, highlighting the broader implications of cervical muscle function in conditions beyond neck pain [@fernandez-de-las-penas_cervical_2008]. Muscle imaging using ultrasound, combined with analysis tools such as NIH ImageJ, has provided valuable insights into muscle thickness and recruitment patterns, showing differences in muscle engagement between individuals with and without pain [@jun_comparison_2013]. These findings underscore the need for effective assessment tools, such as ultrasound, to understand the complex interplay of cervical muscle activation during functional tasks.
+
+This study aims to understand the coordination of the same muscle on both sides of the cervical region during range of motion tasks, examine the relationship between head rotators and the trapezius, and ultimately evaluate the effectiveness of ultrasound in assessing co-activation of cervical muscles during movement tasks. The focus is on understanding the recruitment patterns of deep and superficial muscles in individuals with and without neck pain. By comparing muscle activation patterns and textual analysis, this research seeks to contribute to the development of targeted interventions for managing chronic neck pain.
+
+# References
+
+
+
+
+
+
+
+
+
+
